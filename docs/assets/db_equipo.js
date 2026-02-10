@@ -7,6 +7,7 @@ const EQUIPO_DB = [
     { id: "FZ",  nombre: "Fabrizio Zambanini",   foto: "../assets/equipo/fabri.jpg",         cumple: "03-03",     diaTexto: "03 Marzo",        rol: "Asesor" },
     { id: "ML",  nombre: "Marcelo Lencina",      foto: "../assets/equipo/marce.jpg",         cumple: "03-06",     diaTexto: "06 Marzo",        rol: "Asesor" },
     { id: "AR",  nombre: "Agustin Ramos",        foto: "../assets/equipo/agus.png",          cumple: "03-19",     diaTexto: "19 Marzo",        rol: "Asesor" },
+    { id: "GC",  nombre: "Gaston Ciccioli",      foto: "../assets/equipo/none.png",          cumple: "03-30",     diaTexto: "30 Marzo",        rol: "Asesor" },
     { id: "AV",  nombre: "Ailen Vosahlo",        foto: "../assets/equipo/ailu.jpg",          cumple: "04-28",     diaTexto: "28 Abril",        rol: "Asesor" },
     { id: "MA",  nombre: "Matias Ahumada",       foto: "../assets/equipo/mati-a.jpg",        cumple: "05-31",     diaTexto: "31 Mayo",         rol: "Asesor" },
     { id: "MF",  nombre: "Matias Farias",        foto: "../assets/equipo/mati-f.png",        cumple: "07-28" ,    diaTexto: "28 Julio" ,       rol: "Asesor"},

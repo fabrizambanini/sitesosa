@@ -169,7 +169,7 @@ Para que tu dispositivo pueda visualizar esta red, deberá de contar con una pla
 <pre><code>Te comento que tenés la configuración del Modem con BandSteering lo cual hace que se designe de manera automática una de las dos señales de wifi 2.4 y 5.8. Esto suele generar que se desconecte temporalmente mientras cambia de red cuando se tiene varios dispositivos conectados al wifi, por lo mismo si te parece podemos separar nuevamente las redes wifi, así veríficas el funcionamiento 😊</code></pre>
 </details>
 
-<details class="speech-item">
+<details class="ve-item">
 <summary class="speech-trigger">Problema IP Starlink</summary>
 <pre><code>
 Te explico por qué sucede esto: Starlink es un servicio de internet satelital que brinda cobertura en varias regiones del mundo. Aunque te encuentres físicamente en Argentina, el sistema de Starlink puede asignar direcciones IP que no necesariamente coinciden con tu ubicación geográfica. En este caso, tu conexión está siendo identificada con una IP de otro pais. Por otro lado, la plataforma Flow tiene restricciones geográficas que solo permiten el acceso a usuarios con IP dentro de Argentina. Como tu IP es identificada como chilena, el sistema bloquea el acceso por no cumplir con los requisitos regionales establecidos.
@@ -486,9 +486,20 @@ El equipo de Fibercorp | Teco Corpo está disponible para ayudarte con lo que ne
 
 <details class="speech-item">
 <summary class="speech-trigger">Ventas</summary>
-<pre><code>Te comparto el número de WhatsApp del sector de ventas
+<pre><code>Te comparto los medios de contacto del sector de ventas 👇
 
-https://api.whatsapp.com/send?phone=5491126222222</code></pre>
+🤳🏼 WhatsApp
+
+https://api.whatsapp.com/send?phone=5491126222222
+
+L a D de 09 a 21hs.
+
+📱 Numero de telefono
+
+0800 555 0104
+
+L a V 8 a 24 hs. / S y D 9 a 24 hs.
+</code></pre>
 </details>
 
 <details class="speech-item">
