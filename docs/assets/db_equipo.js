@@ -4,11 +4,13 @@
 const EQUIPO_DB = [
     { id: "SS",  nombre: "Sebastian Sosa",       foto: "../assets/equipo/seba.jpg",          cumple: "12-24",     diaTexto: "30 Abril",        rol: "⭐ Líder de Equipo", esJefe: true },
     { id: "KA",  nombre: "Kevin Arce",           foto: "../assets/equipo/kevin.jpg",         cumple: "01-05",     diaTexto: "05 Enero",        rol: "Asesor" },
+    { id: "KA",  nombre: "Fernando Herrera",     foto: "../assets/equipo/fer.jpg",           cumple: "02-23",     diaTexto: "23 Febrero",      rol: "Asesor" },
     { id: "FZ",  nombre: "Fabrizio Zambanini",   foto: "../assets/equipo/fabri.jpg",         cumple: "03-03",     diaTexto: "03 Marzo",        rol: "Asesor" },
     { id: "ML",  nombre: "Marcelo Lencina",      foto: "../assets/equipo/marce.jpg",         cumple: "03-06",     diaTexto: "06 Marzo",        rol: "Asesor" },
     { id: "AR",  nombre: "Agustin Ramos",        foto: "../assets/equipo/agus.png",          cumple: "03-19",     diaTexto: "19 Marzo",        rol: "Asesor" },
     { id: "GC",  nombre: "Gaston Ciccioli",      foto: "../assets/equipo/none.png",          cumple: "03-30",     diaTexto: "30 Marzo",        rol: "Asesor" },
     { id: "AV",  nombre: "Ailen Vosahlo",        foto: "../assets/equipo/ailu.jpg",          cumple: "04-28",     diaTexto: "28 Abril",        rol: "Asesor" },
+    { id: "AV",  nombre: "Leonel Ocampo",        foto: "../assets/equipo/leo.jpg",           cumple: "05-13",     diaTexto: "13 Mayo",         rol: "Asesor" },
     { id: "MA",  nombre: "Matias Ahumada",       foto: "../assets/equipo/mati-a.jpg",        cumple: "05-31",     diaTexto: "31 Mayo",         rol: "Asesor" },
     { id: "MF",  nombre: "Matias Farias",        foto: "../assets/equipo/mati-f.png",        cumple: "07-28" ,    diaTexto: "28 Julio" ,       rol: "Asesor"},
     { id: "LA",  nombre: "Lourdes Aguirre",      foto: "../assets/equipo/lourdes.jpg",       cumple: "08-03",     diaTexto: "03 Agosto",       rol: "Asesor" },
@@ -20,6 +22,7 @@ const EQUIPO_DB = [
     { id: "BM" , nombre: "Emanuel Moya" ,        foto: "../assets/equipo/ema.jpg" ,          cumple: "09-29" ,    diaTexto: "29 Septiembre" ,  rol: "Asesor"},
     { id: "DR" , nombre: "Diego Ricci" ,         foto: "../assets/equipo/ricci.jpg" ,        cumple: "10-24" ,    diaTexto: "24 Octubre" ,     rol: "Asesor"},
     { id: "RH" , nombre: "Gabriel Hazrun" ,      foto: "../assets/equipo/gabi-h.jpg" ,       cumple: "11-10" ,    diaTexto: "10 Noviembre" ,   rol: "Asesor"},
+    { id: "RH" , nombre: "Silvia Bulacio" ,      foto: "../assets/equipo/sil.jpg" ,          cumple: "11-11" ,    diaTexto: "11 Noviembre" ,   rol: "Asesor"},
     { id: "NM",  nombre: "Nicolas Mores",        foto: "../assets/equipo/nico.jpg",          cumple: "11-27",     diaTexto: "27 Noviembre",    rol: "Asesor" },
     { id: "JG",  nombre: "Juan Godoy",           foto: "../assets/equipo/juanma.jpg",        cumple: "12-31",     diaTexto: "31 Diciembre",    rol: "Asesor" }
 ];

@@ -213,6 +213,47 @@ hide:
 <div class="wiki-stack">
 
   <details class="wiki-item">
+    <summary class="wiki-trigger">💬 Plan de Gestión</summary>
+    <div class="wiki-content">
+
+    ```text
+      🌟 PLAN DE GESTIÓN WHATSAPP 🌟
+
+      🎯 FOCO: Priorizar la resolución online y brindar la mejor experiencia.
+
+      👋 RECEPCIÓN (Generar confianza y seguridad)
+      • "Despreocupate, me voy a encargar de ayudarte / darte una solución"
+      • "Voy a hacer todo lo que esté a mi alcance para solucionarte el problema"
+
+      🔍 ANÁLISIS E INDAGACIÓN
+      • Realizar un análisis profundo.
+      • Priorizar la recopilación de información correcta sobre la rapidez, usando las interacciones necesarias.
+      • Cortes (sin alertas rojas en señal realtime/SNR/OFDMA): Consultar SIEMPRE a compañeros seleccionados para intentar resolver en línea antes de enviar service.
+
+      💎 VALOR DE GESTIÓN (Exagerar nuestra gestión)
+      🛠️ Envío de Service:
+      • "Me encargué de solicitar un service con prioridad para vos"
+      • "Me encargué de solicitar un técnico especializado para que vaya a tu domicilio y te solucione el inconveniente."
+
+      🎁 Carga de Promociones:
+      • "Analizando tu caso, encontré una promoción exclusivamente para vos"
+      • "Me encargué de darte una promoción adecuada a tu situación"
+
+      💸 Notas de Crédito:
+      • "Me encargué de descontarte de tu factura $xxx por los días que estuviste sin servicio."
+      • "Me hice cargo y ya te desconté de tu factura $xxx por los días que no tuviste el servicio"
+
+      📅 Reagenda (Service que no asistió):
+      • "Entiendo que no fue a tu domicilio, no te preocupes, voy a reagendar la visita y me voy a encargar de generar un reclamo para que no vuelva a suceder."
+
+      🏁 CIERRE Y ENCUESTA
+      • Agradecer: Valorar el tiempo del cliente e indicarle que todos los chequeos que hizo "nos ayudaron a analizar la situación a la perfección".
+      • 📋 Encuesta: Mencionar en el 100% de los casos de la cola Técnico Hogar. Aclarar que la puntuación es exclusivamente para nosotros y nos ayuda como asesores.
+    ```
+    </div>
+  </details>
+
+  <details class="wiki-item">
     <summary class="wiki-trigger">💀 Masivo Vencido</summary>
     <div class="wiki-content">
 
@@ -233,7 +274,6 @@ hide:
 
       🖼️ PRINT de pantalla adjunto
     ```
-
     </div>
   </details>
 
