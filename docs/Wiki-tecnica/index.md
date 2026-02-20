@@ -212,45 +212,62 @@ hide:
 
 <div class="wiki-stack">
 
-  <details class="wiki-item">
-    <summary class="wiki-trigger">💬 Plan de Gestión</summary>
-    <div class="wiki-content">
-
-    ```text
-      🌟 PLAN DE GESTIÓN WHATSAPP 🌟
-
-      🎯 FOCO: Priorizar la resolución online y brindar la mejor experiencia.
-
-      👋 RECEPCIÓN (Generar confianza y seguridad)
-      • "Despreocupate, me voy a encargar de ayudarte / darte una solución"
-      • "Voy a hacer todo lo que esté a mi alcance para solucionarte el problema"
-
-      🔍 ANÁLISIS E INDAGACIÓN
-      • Realizar un análisis profundo.
-      • Priorizar la recopilación de información correcta sobre la rapidez, usando las interacciones necesarias.
-      • Cortes (sin alertas rojas en señal realtime/SNR/OFDMA): Consultar SIEMPRE a compañeros seleccionados para intentar resolver en línea antes de enviar service.
-
-      💎 VALOR DE GESTIÓN (Exagerar nuestra gestión)
-      🛠️ Envío de Service:
-      • "Me encargué de solicitar un service con prioridad para vos"
-      • "Me encargué de solicitar un técnico especializado para que vaya a tu domicilio y te solucione el inconveniente."
-
-      🎁 Carga de Promociones:
-      • "Analizando tu caso, encontré una promoción exclusivamente para vos"
-      • "Me encargué de darte una promoción adecuada a tu situación"
-
-      💸 Notas de Crédito:
-      • "Me encargué de descontarte de tu factura $xxx por los días que estuviste sin servicio."
-      • "Me hice cargo y ya te desconté de tu factura $xxx por los días que no tuviste el servicio"
-
-      📅 Reagenda (Service que no asistió):
-      • "Entiendo que no fue a tu domicilio, no te preocupes, voy a reagendar la visita y me voy a encargar de generar un reclamo para que no vuelva a suceder."
-
-      🏁 CIERRE Y ENCUESTA
-      • Agradecer: Valorar el tiempo del cliente e indicarle que todos los chequeos que hizo "nos ayudaron a analizar la situación a la perfección".
-      • 📋 Encuesta: Mencionar en el 100% de los casos de la cola Técnico Hogar. Aclarar que la puntuación es exclusivamente para nosotros y nos ayuda como asesores.
-    ```
+  <details class="wiki-item" style="background-color: #1a1a2e; border: 1px solid #c084fc; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+  <summary class="wiki-trigger" style="padding: 15px; cursor: pointer; font-weight: bold; color: #fff; background-color: #2a2a3e; border-bottom: 1px solid #c084fc; border-top-left-radius: 8px; border-top-right-radius: 8px;">💬 Plan de Gestión</summary>
+  <div class="wiki-content" style="padding: 25px; color: #e0e0e0; font-family: sans-serif;">
+    <h3 style="color: #c084fc; text-align: center; margin-top: 0; margin-bottom: 20px; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">🌟 PLAN DE GESTIÓN WHATSAPP 🌟</h3>
+    <p style="text-align: center; margin-bottom: 25px; font-size: 1.1em;">🎯 <strong style="color: #fff;">FOCO:</strong> Priorizar la resolución online y brindar la mejor experiencia.</p>
+    <hr style="border: 0; border-top: 1px solid #c084fc; opacity: 0.4; margin: 25px 0;">
+    <div style="margin-bottom: 30px;">
+      <h4 style="color: #fff; margin-bottom: 15px; font-size: 1.2em;">👋 RECEPCIÓN <span style="font-size: 0.8em; color: #b0b0b0;">(Generar confianza y seguridad)</span></h4>
+      <ul style="list-style-type: none; padding-left: 20px; margin: 0;">
+        <li style="margin-bottom: 10px; display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> "Despreocupate, me voy a encargar de ayudarte / darte una solución"</li>
+        <li style="display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> "Voy a hacer todo lo que esté a mi alcance para solucionarte el problema"</li>
+      </ul>
     </div>
+    <hr style="border: 0; border-top: 1px solid #c084fc; opacity: 0.4; margin: 25px 0;">
+    <div style="margin-bottom: 30px;">
+      <h4 style="color: #fff; margin-bottom: 15px; font-size: 1.2em;">🔍 ANÁLISIS E INDAGACIÓN</h4>
+      <ul style="list-style-type: none; padding-left: 20px; margin: 0;">
+        <li style="margin-bottom: 10px; display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> Realizar un análisis profundo.</li>
+        <li style="margin-bottom: 10px; display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> Priorizar la recopilación de información correcta sobre la rapidez, usando las interacciones necesarias.</li>
+        <li style="display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> <strong style="color: #fff;">Cortes (sin alertas rojas en señal realtime/SNR/OFDMA):</strong> Consultar SIEMPRE a compañeros seleccionados para intentar resolver en línea antes de enviar service.</li>
+      </ul>
+    </div>
+    <hr style="border: 0; border-top: 1px solid #c084fc; opacity: 0.4; margin: 25px 0;">
+    <div style="margin-bottom: 30px;">
+      <h4 style="color: #fff; margin-bottom: 20px; font-size: 1.2em;">💎 VALOR DE GESTIÓN <span style="font-size: 0.8em; color: #b0b0b0;">(Exagerar nuestra gestión)</span></h4>
+      <div style="padding-left: 20px;">
+        <p style="color: #c084fc; margin-bottom: 10px; font-weight: bold;">🛠️ Envío de Service:</p>
+        <ul style="list-style-type: none; padding-left: 20px; margin-bottom: 20px;">
+          <li style="margin-bottom: 10px; display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> "Me encargué de solicitar un service con prioridad para vos"</li>
+          <li style="display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> "Me encargué de solicitar un técnico especializado para que vaya a tu domicilio y te solucione el inconveniente."</li>
+        </ul>
+        <p style="color: #c084fc; margin-bottom: 10px; font-weight: bold;">🎁 Carga de Promociones:</p>
+        <ul style="list-style-type: none; padding-left: 20px; margin-bottom: 20px;">
+          <li style="margin-bottom: 10px; display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> "Analizando tu caso, encontré una promoción exclusivamente para vos"</li>
+          <li style="display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> "Me encargué de darte una promoción adecuada a tu situación"</li>
+        </ul>
+        <p style="color: #c084fc; margin-bottom: 10px; font-weight: bold;">💸 Notas de Crédito:</p>
+        <ul style="list-style-type: none; padding-left: 20px; margin-bottom: 20px;">
+          <li style="margin-bottom: 10px; display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> "Me encargué de descontarte de tu factura $xxx por los días que estuviste sin servicio."</li>
+          <li style="display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> "Me hice cargo y ya te desconté de tu factura $xxx por los días que no tuviste el servicio"</li>
+        </ul>
+        <p style="color: #c084fc; margin-bottom: 10px; font-weight: bold;">📅 Reagenda (Service que no asistió):</p>
+        <ul style="list-style-type: none; padding-left: 20px;">
+          <li style="display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> "Entiendo que no fue a tu domicilio, no te preocupes, voy a reagendar la visita y me voy a encargar de generar un reclamo para que no vuelva a suceder."</li>
+        </ul>
+      </div>
+    </div>
+    <hr style="border: 0; border-top: 1px solid #c084fc; opacity: 0.4; margin: 25px 0;">
+    <div>
+      <h4 style="color: #fff; margin-bottom: 15px; font-size: 1.2em;">🏁 CIERRE Y ENCUESTA</h4>
+      <ul style="list-style-type: none; padding-left: 20px; margin: 0;">
+        <li style="margin-bottom: 10px; display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> <strong style="color: #fff; margin-right: 5px;">Agradecer:</strong> Valorar el tiempo del cliente e indicarle que todos los chequeos que hizo "nos ayudaron a analizar la situación a la perfección".</li>
+        <li style="display: flex; align-items: flex-start;"><span style="color: #c084fc; margin-right: 10px; font-size: 1.2em;">•</span> <strong style="color: #fff; margin-right: 5px;">Encuesta:</strong> Mencionar en el 100% de los casos de la cola Técnico Hogar. Aclarar que la puntuación es exclusivamente para nosotros y nos ayuda como asesores.</li>
+      </ul>
+    </div>
+  </div>
   </details>
 
   <details class="wiki-item">
